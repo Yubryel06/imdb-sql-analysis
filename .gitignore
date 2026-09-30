@@ -1,0 +1,6 @@
+# IMDb data is licensed for personal, non-commercial use and must not be redistributed.
+# Rebuild it locally with: python scripts/download_and_filter.py
+data/
+
+# Local instructions for AI agents (environment details; not part of the portfolio)
+CLAUDE.md
