@@ -34,7 +34,9 @@ An end-to-end data analytics project on **49,154 feature films** from IMDb's pub
 
 ## Dashboard
 
-*Tableau Public dashboard in progress.*
+**[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/yubryel.castillo/viz/WhatMakesaGreatMovie/WhatMakesaGreatMovie)**
+
+Four of the findings on one page: average rating by genre (genres with 2,000+ films), by runtime, by a director's film number (directors with 10+ films), and horror vs all other films by year since 2000.
 
 ---
 
@@ -159,4 +161,4 @@ Also:
 ## Author
 
 **Yubryel Castillo**, Computer Science student focused on data analytics
-[LinkedIn](#) · [GitHub](https://github.com/Yubryel06) · [Tableau Public](#)
+[LinkedIn](#) · [GitHub](https://github.com/Yubryel06) · [Tableau Public](https://public.tableau.com/app/profile/yubryel.castillo)
