@@ -161,4 +161,4 @@ Also:
 ## Author
 
 **Yubryel Castillo**, Computer Science student focused on data analytics
-[LinkedIn](#) · [GitHub](https://github.com/Yubryel06) · [Tableau Public](https://public.tableau.com/app/profile/yubryel.castillo)
+[LinkedIn](https://www.linkedin.com/in/yubryel-castillo/) · [GitHub](https://github.com/Yubryel06) · [Tableau Public](https://public.tableau.com/app/profile/yubryel.castillo)
